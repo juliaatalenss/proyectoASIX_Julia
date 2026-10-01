@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# Benvinguts al meu MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Aquest es fará al módul d'Implantació d'Aplicacions Web (IAW). Enllaç directe a MkDocs:  [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## Pràctiques del curs 2026-2027
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* Pràctica 1: Branques i unions.
+* Pràctica 2: Pull Request.
+* Pràctica 3: MkDocs + GitHub Pages.
+* Pràctica 4: Desplegament en GitHubs Pages amb CI.
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+    * `mkdocs.yml`: Archivo de configuración.
+    * `docs/index.md`: Página principal.

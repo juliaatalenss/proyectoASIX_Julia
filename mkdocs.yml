@@ -1,15 +1,13 @@
-site_name: Mi Sitio Web ASIX
+site_name: Mi Sitio Web ASIX - Júlia Xing Talens Sala
 
 theme:
   name: material
   palette:
-    # Mode clar (per defecte)
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
-    # Mode fosc automàtic
+      primary: teal
+      accent: purple
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: teal
+      accent: purple
