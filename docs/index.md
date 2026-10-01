@@ -13,3 +13,4 @@ Aquest es fará al módul d'Implantació d'Aplicacions Web (IAW). Enllaç direct
 
     * `mkdocs.yml`: Archivo de configuración.
     * `docs/index.md`: Página principal.
+## Comprovació de CI
